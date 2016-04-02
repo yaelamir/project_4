@@ -11,3 +11,11 @@ body {
 }
 
 a { color: #00B7FF; }
+
+form {
+  max-width: 500px;
+}
+
+#register-form {
+  float: right;
+}
